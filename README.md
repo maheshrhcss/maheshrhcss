@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maheshrhcss
+- 👋 Hi, I’m Mahesh
 
 <!---
 maheshrhcss/maheshrhcss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
